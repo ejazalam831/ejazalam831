@@ -16,7 +16,6 @@
 
 🌱 I'm always interested in:
 - Collaborating on ML/AI projects
-- Business process optimization through AI
 - Sharing knowledge and learning from others
 
 🛠️ Tech Stack: 
