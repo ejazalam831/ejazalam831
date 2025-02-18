@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/ejazalam831/ejazalam831/blob/main/Screenshot%2020.jpeg" alt="" />
+  <img src="https://github.com/ejazalam831/ejazalam831/blob/main/Screenshot%20201.JPG" alt="" />
 </p>
 
 ## Hi there 👋
