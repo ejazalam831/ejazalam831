@@ -1,5 +1,7 @@
+
+
 <p align="center">
-  <img src="https://github.com/ejazalam831/ejazalam831/blob/main/IMG_4533.jpg" alt="" />
+  <img src="https://github.com/ejazalam831/ejazalam831/blob/main/Screenshot%2020.jpeg" alt="" />
 </p>
 
 ## Hi there 👋
