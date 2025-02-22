@@ -10,9 +10,7 @@
 
 🔭 I believe the best data science solutions come from understanding both the business context and technical implementation. My background in finance gives me a unique perspective on how to create impactful AI solutions.
 
-💻 Currently exploring:
-- Data-driven solutions that bridge business and technology
-- Writing articles that make complex ML concepts accessible to everyone 📝
+💻 Currently writing articles that make complex ML concepts accessible to everyone 📝
 
 🌱 I'm always interested in:
 - Collaborating on ML/AI projects
@@ -28,7 +26,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-003B57?style=plastic&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2A9DF4?style=plastic&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4B6E?style=plastic&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
 </p>
 
 📫 Let's connect and build something awesome! Feel free to reach out for collaborations or just to chat about data science.
