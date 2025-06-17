@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Plotly-3F4B6E?style=plastic&logo=plotly&logoColor=white" />
 </p>
 
-📫 Let's connect and build something awesome! Feel free to reach out for collaborations or just to chat about data science.
+📫 Let's connect and build something awesome! Feel free to reach out for collaborations or just to chat about data science / machine learning.
 
 
 <!--
